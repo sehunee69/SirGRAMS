@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SirGRAMS.API/SirGRAMS.API.csproj" />
+  <Project Path="SirGRAMS.Application/SirGRAMS.Application.csproj" />
+  <Project Path="SirGRAMS.Domain/SirGRAMS.Domain.csproj" />
+  <Project Path="SirGRAMS.Infrastructure/SirGRAMS.Infrastructure.csproj" />
+  <Project Path="SirGRAMS.Workers/SirGRAMS.Workers.csproj" />
+</Solution>

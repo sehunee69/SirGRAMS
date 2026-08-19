@@ -1,0 +1,6 @@
+@SirGRAMS.API_HostAddress = http://localhost:5013
+
+GET {{SirGRAMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
